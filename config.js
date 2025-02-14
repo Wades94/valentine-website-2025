@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓','😸','😼'],  // Heart emojis
+        bears: ['🧸', '🐻','😻',':D',':)']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me? >:(",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No :(",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I love you!!!! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "YAYYYY!!!!!!!! ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine my love? 🌹", // The big question!
+            text: "Will you be my Valentine baby? 🌹", // The big question!
             yesBtn: "Yes!!!!!!",                                             // Text for "Yes" button
             noBtn: "No :(((((("                                                 // Text for "No" button
         }
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYYY! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Thank you my love you're the best, my sweet pretty girl! :D",
-        emojis: "🎁💖🤗💝💋❤️💕 :D :) "  // These will bounce around
+        message: "Thank you my love, my sweet pretty girl! :D",
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
